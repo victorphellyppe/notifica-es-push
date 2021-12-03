@@ -1,0 +1,7 @@
+{
+  "name": "meuAppNotification",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
